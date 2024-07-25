@@ -1,1 +1,3 @@
-A simple HTML/JS/CSS starter template
+Primera Clase de Html 
+Proyecto de Portafolio personal
+Html/css/Javascript
